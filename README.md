@@ -10,4 +10,16 @@ Learned how VS and CSS work hand in had to build and maintain a site or vice ver
 
 body and header was updated to breakdown the details of each category. 
 
+## Semantic tags:
+![Screenshot1](/Screenshot%202024-02-18%20at%203.08.44%20PM.png)
 
+## Deployment:
+
+![Live](/Screenshot%202024-02-18%20at%203.07.00%20PM.png)
+![Live](/Screenshot%202024-02-18%20at%203.07.46%20PM.png)
+
+
+[Deployment]()
+
+### Author:
+Mehrnaz Kiani
